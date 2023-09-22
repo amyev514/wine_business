@@ -11,7 +11,7 @@ This folder showcases projects I have completed.
 
 #### Analysis
 
-### Project Management
+#### Project Management
 
 ## **Experience**
 
