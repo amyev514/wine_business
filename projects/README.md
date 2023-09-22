@@ -1,5 +1,5 @@
 # Projects
 This folder showcases projects I have completed.
 ## Contents
-* [Project 1](project_1)
-* [Project 2](project_2)
+* [Wine Label Design](wine_label_design)
+* [Packaging Materials](packaging_materials)
