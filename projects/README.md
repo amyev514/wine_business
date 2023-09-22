@@ -7,16 +7,16 @@ This folder showcases projects I have completed.
 
 ## **Skills**
 
-### Organization
+#### Organization
 
-### Analysis
+#### Analysis
 
 ### Project Management
 
 ## **Experience**
 
-### '#660033' Wine Production
+####  Wine Production
 
-### '#660033' Wine Sales
+####  Wine Sales
 
-### '#660033' Wine Compliance
+####  Wine Compliance
